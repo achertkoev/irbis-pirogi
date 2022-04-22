@@ -21,6 +21,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -222,6 +223,8 @@
     <Content Include="Content\img\product\product15.jpg" />
     <Content Include="Content\img\product\product19.jpg" />
     <Content Include="Content\img\product\product2.jpg" />
+    <Content Include="Content\img\product\product22.jpg" />
+    <Content Include="Content\img\product\product23.jpg" />
     <Content Include="Content\img\product\product24.jpg" />
     <Content Include="Content\img\product\product25.jpg" />
     <Content Include="Content\img\product\product26.jpg" />
